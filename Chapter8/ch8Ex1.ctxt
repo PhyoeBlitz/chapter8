@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ch8Ex1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ value
+comment2.target=double[]\ powArray(double[],\ double)
+comment3.params=scores\ counter
+comment3.target=int[]\ histogram(int[],\ int)
+numComments=4
